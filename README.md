@@ -20,7 +20,7 @@ In the paper you will find the details of the design process and why each compon
 
 ### Technologies
 
-- ![solidworks](./files/solidworks.png) SolidWorks
+- SolidWorks
 - draw.io (flowcharts)
 
 [Back To The Top](#maritime-life-support-device)
