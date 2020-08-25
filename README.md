@@ -14,7 +14,8 @@ After this initial abstraction of the systems, a morphological matrix was made o
 Using a weighted scoring method the relative value of each system design was scored, the best systems were selected and an initial concept was rendered. 
 In the paper you will find the details of the design process and why each component is the way it is. 
 
-    This  project is meant to show how I and the rest of the team can solve problems where we have no previous knowledge on. 
+    This  project is meant to show how I and the rest of the team can 
+    solve problems where we have no previous knowledge on. 
 
 
 ### Technologies
