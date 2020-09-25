@@ -28,7 +28,7 @@ In the paper you will find the details of the design process and why each compon
 
 [Back To The Top](#maritime-life-support-device)
 
-### Challenges 
+## What I learnt
 >- Team motivation to continue following the design process. 
 >
 >- Organzing CAD design between several team members. 
