@@ -43,4 +43,5 @@ In the paper you will find the details of the design process and why each compon
 >- Organzing CAD design between several team members. 
 >
 >- Choosing a compromise between simplicity and feaeture full design. 
+
 [Back To The Top](#maritime-life-support-device)
