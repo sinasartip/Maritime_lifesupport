@@ -27,3 +27,8 @@ In the paper you will find the details of the design process and why each compon
 - draw.io (flowcharts)
 
 [Back To The Top](#maritime-life-support-device)
+
+### Challenges 
+- Team motivation to continue following the design process. 
+- Organzing CAD design between several team members. 
+- Choosing a compromise between simplicity and feaeture full design. 
